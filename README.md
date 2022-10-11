@@ -13,7 +13,7 @@
 
 ### 🎲 Rodando o Jogo
 
-- Para jogar acesse o linl: https://editor.p5js.org/miistrass/full/XevpJnJ6U
+- Para jogar acesse o link: https://editor.p5js.org/miistrass/full/XevpJnJ6U
 - Para o jogador da direita utilize as setas "Para cima" e "Para Baixo" do teclado para mover a raquete.
 - Para o jogador da Esquerda, utilize as teclas "W" para mover para cima e "S" para mover a raquete para baixo.
 - Quando a bolinha atigir a parede do oponente, vai ser disparado um efeito sonoro de ponto, e adicionar o ponto no placar correspondente ao jogador que pontuou.
