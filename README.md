@@ -3,7 +3,7 @@
 ## Este jogo foi desenvolvido com o objetivo de aprender a sintaxe da linguagem de JavaScript
 
 <h4 align="center"> 
-	✅  Jogo Pong em JaveScript 🚀 Concluído  ✅
+	✅  Jogo Pong em JavaScript 🚀 Concluído  ✅
 </h4>
 
 ### Pré-requisitos
