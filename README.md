@@ -2,15 +2,6 @@
 
 ## Este jogo foi desenvolvido com o objetivo de aprender a sintaxe da linguagem de JavaScript
 
-Tabela de conteúdos
-==============
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#autor">Autor</a>
-</p>
-
 <h4 align="center"> 
 	✅  Jogo Pong em JaveScript 🚀 Concluído  ✅
 </h4>
